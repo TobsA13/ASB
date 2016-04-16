@@ -1,6 +1,6 @@
 {
-  "name": "Asb",
+  "name": "ASB",
   "tagline": "Axel Springer Filter List",
-  "body": "# Axel Springer Filter List\r\n## Block dir deren Meinung\r\n\r\nEine simple Filter Liste um keine Qualitätjornalismuss aus dem Hause Axel Springer mehr ertragen zu müssen.",
+  "body": "# Axel Springer Filter List\r\n## Block dir deren Meinung\r\n\r\nEine simple Filter Liste um keinen Qualitätsjournalismus aus dem Hause Axel Springer mehr ertragen zu müssen.\r\n\r\n## Hinzufügen\r\n\r\nFilterlist: `https://raw.githubusercontent.com/TobsA13/ASB/master/filterlist.txt`\r\n\r\nµBlock:\r\nEinstellungen -> Vorgegebene Filter -> Ganz unten die Filterlist URL einfügen.\r\n\r\nAndere Tools:\r\nKein Plan\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
