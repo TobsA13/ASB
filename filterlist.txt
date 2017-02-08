@@ -1,7 +1,7 @@
 ! Title: ASB - Axel Springer Filter List
 ! Homepage: https://tobsa13.github.io/ASB/
 ! Expires: 5 days
-! Version: 2016040160001
+! Version: 201702180001
 
 onet.pl
 weltn24.de
