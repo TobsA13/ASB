@@ -1,7 +1,7 @@
 ! Title: ASB - Axel Springer Filter List
 ! Homepage: https://tobsa13.github.io/ASB/
 ! Expires: 5 days
-! Version: 201702180001
+! Version: 201903260001
 
 onet.pl
 weltn24.de
@@ -148,3 +148,9 @@ autobild.hu
 geolenok.ru
 autoplus.fr
 seloger.com
+axelspringer.com
+stepstone.com
+immoweb.be
+businessinsider.de
+emarketer.com
+awin.com
