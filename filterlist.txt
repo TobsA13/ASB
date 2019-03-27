@@ -1,3 +1,6 @@
+# ASB - Axel Springer Filter List
+# https://tobsa13.github.io/ASB/
+
 ||onet.pl
 ||weltn24.de
 ||azet.sk
