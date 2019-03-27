@@ -1,5 +1,4 @@
 # ASB
-Axel Springer Filter List
+## Axel Springer Filter List
 
-
-Siehe https://tobsa13.github.io/ASB/
+Weiter Informationen (Hinzufügen, etc.): https://tobsa13.github.io/ASB/
