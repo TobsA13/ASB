@@ -1,5 +1,11 @@
-# ASB - Axel Springer Filter List
-# https://tobsa13.github.io/ASB/
+! Title: ASB - Axel Springer Filter List
+! Expires: 4 days
+! Description: Filtert Qualitätsjournalismus aus dem Hause Axel Springer
+! Homepage: https://tobsa13.github.io/ASB/
+! Licence: https://github.com/TobsA13/ASB/blob/master/LICENSE.md
+! 
+! GitHub issues: https://github.com/TobsA13/ASB/issues
+! GitHub pull requests: https://github.com/TobsA13/ASB/pulls
 
 ||onet.pl
 ||weltn24.de
