@@ -1,6 +1,6 @@
 ! Title: ASB - Axel Springer Filter List
 ! Expires: 4 days
-! Version: 201903290001
+! Version: 201906220001
 ! Description: Filtert Qualitätsjournalismus aus dem Hause Axel Springer
 ! Homepage: https://tobsa13.github.io/ASB/
 ! Licence: https://github.com/TobsA13/ASB/blob/master/LICENSE.md
@@ -122,7 +122,6 @@
 ||stylebook.de$document
 ||schweizerbank.ch$document
 ||axelspringer.hu$document
-||buecher.de$document
 ||antenne1.de$document
 ||bonial.com$document
 ||stylebistro.com$document
