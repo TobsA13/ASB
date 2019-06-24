@@ -3,7 +3,7 @@
 # Description: Filtert Qualitätsjournalismus aus dem Hause Axel Springer
 # Homepage: https://tobsa13.github.io/ASB/
 # Licence: https://github.com/TobsA13/ASB/blob/master/LICENSE.md
-# 
+#
 # GitHub issues: https://github.com/TobsA13/ASB/issues
 # GitHub pull requests: https://github.com/TobsA13/ASB/pulls
 
@@ -315,3 +315,5 @@ fe80::1%lo0 localhost
 0.0.0.0 www.emarketer.com
 0.0.0.0 awin.com
 0.0.0.0 www.awin.com
+0.0.0.0 wieistmeineip.de
+0.0.0.0 www.wieistmeineip.de
