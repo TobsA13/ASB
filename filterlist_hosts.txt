@@ -47,8 +47,6 @@ fe80::1%lo0 localhost
 0.0.0.0 www.autobild.com.mx
 0.0.0.0 autobild.de
 0.0.0.0 www.autobild.de
-0.0.0.0 autobild.de
-0.0.0.0 www.autobild.de
 0.0.0.0 autobild.es
 0.0.0.0 www.autobild.es
 0.0.0.0 autobild.fi
@@ -89,8 +87,6 @@ fe80::1%lo0 localhost
 0.0.0.0 www.autotip.auto.cz
 0.0.0.0 autoundwirtschaft.at
 0.0.0.0 www.autoundwirtschaft.at
-0.0.0.0 autoweek.nl
-0.0.0.0 www.autoweek.nl
 0.0.0.0 autoweek.nl
 0.0.0.0 www.autoweek.nl
 0.0.0.0 avfbild.de
@@ -139,8 +135,6 @@ fe80::1%lo0 localhost
 0.0.0.0 www.carwale.com
 0.0.0.0 casamundo.com
 0.0.0.0 www.casamundo.com
-0.0.0.0 computerbild.de
-0.0.0.0 www.computerbild.de
 0.0.0.0 computerbild.de
 0.0.0.0 www.computerbild.de
 0.0.0.0 computerbildspiele.de
@@ -233,8 +227,6 @@ fe80::1%lo0 localhost
 0.0.0.0 www.ok-magazine.ru
 0.0.0.0 onet.pl
 0.0.0.0 www.onet.pl
-0.0.0.0 onmeda.de
-0.0.0.0 www.onmeda.de
 0.0.0.0 onmeda.de
 0.0.0.0 www.onmeda.de
 0.0.0.0 ozy.com

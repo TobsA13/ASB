@@ -24,7 +24,6 @@
 ||auto.cz$document
 ||autobild.com.mx$document
 ||autobild.de$document
-||autobild.de$document
 ||autobild.es$document
 ||autobild.fi$document
 ||autobild.ge$document
@@ -45,7 +44,6 @@
 ||autoshow.com.tr$document
 ||autotip.auto.cz$document
 ||autoundwirtschaft.at$document
-||autoweek.nl$document
 ||autoweek.nl$document
 ||avfbild.de$document
 ||awin.com$document
@@ -70,7 +68,6 @@
 ||bz.de$document
 ||carwale.com$document
 ||casamundo.com$document
-||computerbild.de$document
 ||computerbild.de$document
 ||computerbildspiele.de$document
 ||dzienniksport.pl$document
@@ -117,7 +114,6 @@
 ||nin.co.rs$document
 ||ok-magazine.ru$document
 ||onet.pl$document
-||onmeda.de$document
 ||onmeda.de$document
 ||ozy.com$document
 ||partyguide.ch$document
