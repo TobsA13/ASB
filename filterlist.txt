@@ -1,6 +1,6 @@
 ! Title: ASB - Axel Springer Filter List
 ! Expires: 4 days
-! Version: 201907020001
+! Version: 201908050001
 ! Description: Filtert Qualitätsjournalismus aus dem Hause Axel Springer
 ! Homepage: https://tobsa13.github.io/ASB/
 ! Licence: https://github.com/TobsA13/ASB/blob/master/LICENSE.md
@@ -66,8 +66,11 @@
 ||businessinsider.de$document
 ||bz-berlin.de$document
 ||bz.de$document
+||carboatmedia.fr$document
 ||carwale.com$document
 ||casamundo.com$document
+||celeraone.com$document
+||clever-tanken.de$document
 ||computerbild.de$document
 ||computerbildspiele.de$document
 ||dzienniksport.pl$document
@@ -147,6 +150,7 @@
 ||tvstar.ch$document
 ||umzugsauktion.de$document
 ||usgang.ch$document
+||verticalmedia.com$document
 ||wams.de$document
 ||welt.de$document
 ||weltn24.de$document
