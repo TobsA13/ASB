@@ -131,10 +131,16 @@ fe80::1%lo0 localhost
 0.0.0.0 www.bz-berlin.de
 0.0.0.0 bz.de
 0.0.0.0 www.bz.de
+0.0.0.0 carboatmedia.fr
+0.0.0.0 www.carboatmedia.fr
 0.0.0.0 carwale.com
 0.0.0.0 www.carwale.com
 0.0.0.0 casamundo.com
 0.0.0.0 www.casamundo.com
+0.0.0.0 celeraone.com
+0.0.0.0 www.celeraone.com
+0.0.0.0 clever-tanken.de
+0.0.0.0 www.clever-tanken.de
 0.0.0.0 computerbild.de
 0.0.0.0 www.computerbild.de
 0.0.0.0 computerbildspiele.de
@@ -293,6 +299,8 @@ fe80::1%lo0 localhost
 0.0.0.0 www.umzugsauktion.de
 0.0.0.0 usgang.ch
 0.0.0.0 www.usgang.ch
+0.0.0.0 verticalmedia.com
+0.0.0.0 www.verticalmedia.com
 0.0.0.0 wams.de
 0.0.0.0 www.wams.de
 0.0.0.0 welt.de
