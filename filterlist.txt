@@ -58,6 +58,7 @@
 ||belvilla.com$document
 ||beobachter.ch$document
 ||beobachtertv.ch$document
+||bike-bild.de$document
 ||bilanz-magazin.de$document
 ||bild.de$document
 ||blic.rs$document
