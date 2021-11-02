@@ -8,13 +8,6 @@
 # GitHub pull requests: https://github.com/TobsA13/ASB/pulls
 
 
-127.0.0.1 localhost
-127.0.0.1 localhost.localdomain
-127.0.0.1 local
-255.255.255.255 broadcasthost
-::1 localhost
-fe80::1%lo0 localhost
-
 0.0.0.0 amiado.com
 0.0.0.0 www.amiado.com
 0.0.0.0 amiadogroup.com
