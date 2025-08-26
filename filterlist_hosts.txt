@@ -1,5 +1,5 @@
 # Title: ASB - Axel Springer Filter List
-# Version: 202508260001
+# Version: 202508260002
 # Description: Filtert Qualitätsjournalismus aus dem Hause Axel Springer
 # Homepage: https://tobsa13.github.io/ASB/
 # Licence: https://github.com/TobsA13/ASB/blob/master/LICENSE.md
@@ -136,6 +136,7 @@
 0.0.0.0 www.celeraone.com
 0.0.0.0 clever-tanken.de
 0.0.0.0 www.clever-tanken.de
+0.0.0.0 proxy.clever-tanken.de
 0.0.0.0 computerbild.de
 0.0.0.0 www.computerbild.de
 0.0.0.0 computerbildspiele.de
