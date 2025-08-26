@@ -140,6 +140,7 @@
 ||students.de^$document
 ||stylebistro.com^$document
 ||stylebook.de^$document
+||techbook.de^$document
 ||tele.ch^$document
 ||totaljobs.com^$document
 ||transfermarkt.de^$document
