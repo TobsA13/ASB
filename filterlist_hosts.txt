@@ -1,5 +1,5 @@
 # Title: ASB - Axel Springer Filter List
-# Version: 202111160001
+# Version: 202508260001
 # Description: Filtert Qualitätsjournalismus aus dem Hause Axel Springer
 # Homepage: https://tobsa13.github.io/ASB/
 # Licence: https://github.com/TobsA13/ASB/blob/master/LICENSE.md
